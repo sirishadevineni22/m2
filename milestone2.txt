@@ -1,0 +1,11 @@
+<!doctyoe html>
+<html>
+<head>
+<title>Milestone 2</title>
+</head>
+<body>
+<h3 align="center"><u><mark><big>!!!QUANTIM COMPUTING!!!<h3></u></mark></big>
+<p style="color:red">Quantum computing is a type of computation that harnesses the collective properties of quantum states, such as superposition, interference, and entanglement, to perform calculations. The devices that perform quantum computations are known as quantum computers. Though current quantum computers are too small to outperform usual (classical) computers for practical applications, they are believed to be capable of solving certain computational problems, such as integer factorization (which underlies RSA encryption), substantially faster than classical computers.The study of quantum computing is a subfield of quantum information science.<br><br>There are several types of quantum computers (also known as quantum computing systems), including the quantum circuit model, quantum Turing machine, adiabatic quantum computer, one-way quantum computer, and various quantum cellular automata. The most widely used model is the quantum circuit, based on the quantum bit, or "qubit", which is somewhat analogous to the bit in classical computation. A qubit can be in a 1 or 0 quantum state, or in a superposition of the 1 and 0 states. When it is measured, however, it is always 0 or 1; the probability of either outcome depends on the qubit's quantum state immediately prior to measurement.</i></p><br>
+<img src="milestone.jpg" alt="Here is an Image"width="1500" height="400" >
+</body>
+</html>
